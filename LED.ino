@@ -1,6 +1,7 @@
-// color swirl! connect an RGB LED to the PWM pins as indicated
-// in the #defines
-// public domain, enjoy!
+// LED Pit logo display
+// 3/31/18
+// Liam Bewley, Maya Yaakov, Roy Hill, Art McLaughlin
+
 
 #include <SoftwareSerial.h>
  
